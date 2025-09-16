@@ -11,4 +11,5 @@
 
 5. Used troubleshooting guide for Metro bundler and CLI version error.
 
-6. Average: 20-30 minutes each step
+6. Average: 30-40 minutes each step
+
