@@ -17,6 +17,7 @@ return (
 <Text style={styles.subtitle}>Cross-Platform Mobile Development</Text>
 </View>
 <View style={styles.content}>
+//Greeting
 <Text style={styles.greeting}>Hello, I'm Saffi Ahmad!</Text>
 <Text style={styles.info}>Student ID: n01708324@humber.ca</Text>
 <Text style={styles.info}>Program: Computer Programming & Analysis</Text>
@@ -31,6 +32,7 @@ return (
 </SafeAreaView>
 );
 }
+//Styling
 const styles = StyleSheet.create({
 container: {
 flex: 1,
